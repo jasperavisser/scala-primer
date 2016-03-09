@@ -1,4 +1,4 @@
-package nl.haploid
+package nl.haploid.v1
 
 trait Log {
 
